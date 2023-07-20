@@ -1,4 +1,4 @@
-### Güncel Github Hesabım 👋
+### Güncel Github Hesabım 
 
 <!--
 **Baskanreis/Baskanreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
